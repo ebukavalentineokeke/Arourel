@@ -1,0 +1,34 @@
+.Navbar{
+    background-color: aqua;
+    font-style: italic;
+    padding: 24px;
+    margin: 13px;
+    text-align: justify;
+
+}
+
+Li{
+    display: inline-block;
+}
+
+Li a{
+    text-decoration: none;
+    color: darkorange;
+    padding: 20px;
+}
+.Content{
+    background-color: burlywood;
+    color: crimson;
+    text-align: justify;
+    padding: 55px;
+    margin: 13px;
+
+}
+
+.Footer{
+    background-color: crimson;
+    color: darkkhaki;
+    text-align: center;
+    margin: 12px;
+    padding: 36px;
+}
